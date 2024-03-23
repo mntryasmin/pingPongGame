@@ -4,7 +4,7 @@ In this game you have two main objectives:
 - hit the ball whenever the opponent throws it towards you and
 - try to throw the ball towards the opponent so that it does not bounce off his racket.
 
-![v1](https://github.com/mntryasmin/pingPongGame/blob/master/v1.png)
+![v1](https://github.com/mntryasmin/pingPongGame/blob/master/img/versoes/v1.png)
 
 ## Functions
 - scorekeeping;
